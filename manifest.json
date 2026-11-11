@@ -1,1 +1,55 @@
-{"id":"./","name":"Control de Ventas","short_name":"Ventas","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#ffffff","theme_color":"#1d4ed8","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{
+ "id": "./",
+ "name": "Control de Ventas",
+ "short_name": "Ventas",
+ "description": "Control integral de inventario, consignaciones, ventas y capital.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "lang": "es",
+ "dir": "ltr",
+ "background_color": "#ffffff",
+ "theme_color": "#073b6b",
+ "categories": [
+  "business",
+  "finance",
+  "productivity"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "screenshots": [
+  {
+   "src": "screenshot-wide.png",
+   "sizes": "1280x720",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "Panel principal"
+  },
+  {
+   "src": "screenshot-narrow.png",
+   "sizes": "412x915",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "Vista en el móvil"
+  }
+ ]
+}
